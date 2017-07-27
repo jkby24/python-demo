@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "url": "assets/itempic/1001.png", 
+      "type": "image", 
+      "name": "1001_png"
+    }, 
+    {
+      "url": "assets/itempic/1002.png", 
+      "type": "image", 
+      "name": "1002_png"
+    }, 
+    {
+      "url": "assets/itempic/1003.png", 
+      "type": "image", 
+      "name": "1003_png"
+    }, 
+    {
+      "url": "assets/itempic/1004.png", 
+      "type": "image", 
+      "name": "1004_png"
+    }, 
+    {
+      "url": "assets/itempic/1005.png", 
+      "type": "image", 
+      "name": "1005_png"
+    }, 
+    {
+      "url": "assets/itempic/1006.png", 
+      "type": "image", 
+      "name": "1006_png"
+    }, 
+    {
+      "url": "assets/itempic/1007.png", 
+      "type": "image", 
+      "name": "1007_png"
+    }, 
+    {
+      "url": "assets/itempic/1008.png", 
+      "type": "image", 
+      "name": "1008_png"
+    }, 
+    {
+      "url": "assets/itempic/1009.png", 
+      "type": "image", 
+      "name": "1009_png"
+    }, 
+    {
+      "url": "assets/itempic/1010.png", 
+      "type": "image", 
+      "name": "1010_png"
+    }, 
+    {
+      "url": "assets/itempic/1011.png", 
+      "type": "image", 
+      "name": "1011_png"
+    }, 
+    {
+      "url": "assets/itempic/1012.png", 
+      "type": "image", 
+      "name": "1012_png"
+    }, 
+    {
+      "url": "assets/itempic/10134496.png", 
+      "type": "image", 
+      "name": "10134496_png"
+    }
+  ], 
+  "groups": []
+}

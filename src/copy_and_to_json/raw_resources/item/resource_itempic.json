@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "url": "assets/itempic/1001.png", 
+      "type": "image", 
+      "name": "1001_png"
+    }
+  ], 
+  "groups": []
+}
